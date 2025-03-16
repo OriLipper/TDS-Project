@@ -1,0 +1,5 @@
+Dataset,Enhanced_Charts,Baseline_Charts,Overlap_Percent,Avg_Enhanced_p-value,Avg_Baseline_p-value,Avg_Enhanced_MutualInfo,Avg_Baseline_MutualInfo,Readability_Enhanced,Readability_Baseline
+CC GENERAL,5,5,40.0,0.0,0.0,0.7251,0.5913,,
+medical_insurance,13,13,92.31,0.0609,0.0547,0.1261,0.1259,,
+House Price India,5,5,60.0,0.0,0.0,1.036,0.888,,
+weatherAUS,15,15,66.67,0.0679,0.0,1.1295,0.5604,,
